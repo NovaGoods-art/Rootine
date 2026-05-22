@@ -1,0 +1,6 @@
+{
+  "name": "Rootine",
+  "description": "Slow habit tracker for real life. Consistency over perfection: no broken streaks, no shame, just honest averages and graceful skips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
